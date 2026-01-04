@@ -1,4 +1,4 @@
-cask "ableton-live-standard" do
+cask "ableton-live-standard@10" do
   version "10.1.43"
   sha256 "73c04b069f9636931ed585e8c936276a33ea4f24871ae494542739926cd15fa2"
 
